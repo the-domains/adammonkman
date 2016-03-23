@@ -1,0 +1,28 @@
+name: adammonkman
+favicon: null
+layout_spectrum: 0.694311945233494
+typography_spectrum: 0.45858311047777534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.25116581260226667
+  lightness: 0.5349825569428504
+  saturation: 0.6348971801344305
+  rhythmicContrast: 0.17232022364623845
+purpose: []
